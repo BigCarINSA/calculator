@@ -24,6 +24,8 @@
 <br>
 <br>
 
+## REPO of Son Ngo
+
 ## About The Project
 
 <p>This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you!
